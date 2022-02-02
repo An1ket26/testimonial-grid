@@ -108,7 +108,7 @@ img{
     padding:0 20px;
     grid-template-columns:1fr;
 }
-  .one{
+.one{
   grid-row: 1;
   grid-column: 1;
 }
